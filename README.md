@@ -86,8 +86,6 @@ Building AI-powered products that scale across Australia & the Philippines.
 
 - 🌐 Website: https://realboss.ai
 - 💼 LinkedIn: https://linkedin.com/in/vloremia
-- 🧠 Twitter/X: (add if desired)
-- 📧 Email: (optional)
 
 ---
 

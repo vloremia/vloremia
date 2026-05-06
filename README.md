@@ -53,18 +53,6 @@ Building AI-powered products that scale across Australia & the Philippines.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vloremia&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vloremia&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🔥 Current Focus (2026)
 
 - AI-native SaaS architecture
